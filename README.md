@@ -41,7 +41,6 @@ cat yourfile.txt | node index.js -option
 ```
 
 CCWC also accepts the following options:
-CCWC also accepts the following options:
 
 | Option | Description                 |
 |--------|-----------------------------|
